@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pyeve/events/commit/e8ec95bed91aa6f86d39a72cbcfb16a9dce819a4",
       "git:hexsha": "e8ec95bed91aa6f86d39a72cbcfb16a9dce819a4",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.5"
     },
     {
