@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pyeve/events/commit/e8ec95bed91aa6f86d39a72cbcfb16a9dce819a4",
       "git:hexsha": "e8ec95bed91aa6f86d39a72cbcfb16a9dce819a4",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.5"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.5",
+      "repolex:parsedAt": "2026-10-20T14:35:22.493201+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pyeve/events/commit/6dc058b80dccb42dea1ceedb50deda0c699b6636",
