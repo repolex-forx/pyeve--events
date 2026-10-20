@@ -1,0 +1,11 @@
+{
+  "org": "pyeve",
+  "repo": "events",
+  "versions": [
+    {
+      "commit": "e8ec95bed91aa6f86d39a72cbcfb16a9dce819a4",
+      "tag": "v0.5",
+      "parsed_at": "2026-10-20T14:35:22.493682+00:00"
+    }
+  ]
+}
