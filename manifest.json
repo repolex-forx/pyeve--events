@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "pyeve",
+  "repo": "events",
+  "versions": [
+    {
+      "commit": "e8ec95bed91aa6f86d39a72cbcfb16a9dce819a4",
+      "parsed_at": "2026-10-20T14:32:46.936865+00:00",
+      "tag": "v0.5",
+      "filetree": "filetree/e8ec95bed91aa6f86d39a72cbcfb16a9dce819a4.nq.gz",
+      "blobs": [
+        "blob/45252707005da1089c36cdc06f7bdc76b030b447.nq.gz",
+        "blob/afe9010b79f1615e5cb5a038059a8db8a8eb13ef.nq.gz",
+        "blob/c23776d45db6d6884d593793f5e478452a333479.nq.gz",
+        "blob/a5021c60e36ae085d1ef96c1fed9d88c2f65dd53.nq.gz",
+        "blob/da7f94c449d3deb7590c400ef814869d0657d318.nq.gz",
+        "blob/a9f90412283130df22bdb7c4c4ad6aaf56cf679a.nq.gz",
+        "blob/d44697564e26421518ead16d1a3484aeeeb0752f.nq.gz",
+        "blob/485fd48c26016b3694de7d3aec1f8437f1cce5b8.nq.gz",
+        "blob/082c0ecac42a17beb17c98fff5178857ca8e7404.nq.gz",
+        "blob/4f723d575f295b009e3c15483d64fdca3ce73eaa.nq.gz",
+        "blob/014e41dcd9cddf46c1538b08a239ec8ea4dd5c0c.nq.gz",
+        "blob/c69d175a618bf0d446c2fd8d2f89ba2d4e9d433f.nq.gz",
+        "blob/13da4f261a2703cc3b620d19fb25b7fa0e8543e2.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/c5b03b212ec32b6a9094b6954e1116800308b254.nq.gz",
+        "blob/72c865c215d67e8febe132d7286a2c38e7c2365f.nq.gz",
+        "blob/a0775d51e3a8cf76f9bd61ac5c3e3a0fc796e141.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
